@@ -1,0 +1,206 @@
+body {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  background-color: #e1e0db;
+  font-size:13px;
+  line-height: 17px;
+}
+
+
+.wrapper {
+  width:969px;
+  margin:0 auto;  
+  padding-bottom:40px;
+}
+
+
+.entry {
+  width:720px;
+  display: block;
+  padding-top:35px;
+  clear: both;
+  margin-left:4px;
+}
+
+h1  {
+  width:250px;
+  font-size:42px;
+  color:#803a3a;
+  margin-bottom:3px;
+  clear:both;
+}
+
+
+h2 {
+  width:180px;
+  height: 23px;
+  text-align: right;
+  float:left;
+  padding:0;
+  margin:0;
+  clear:both;
+  font-size:22px;
+  color:#803a3a;
+  margin-bottom:-12px;
+}
+
+p {
+  width:490px;
+  margin-left:40px;
+  float:right;  
+}
+
+div.content {
+  clear: both;
+  padding:0;
+  margin:0;
+  overflow: hidden;
+  display:block;
+  padding-top:32px;
+}
+
+h3 {
+  width:180px;
+  text-align: right;
+  float:left;
+  padding:0;
+  clear:both;
+  font-size: 13px;
+  color:#ab7979;
+}
+
+h4 {
+  width:180px;
+  text-align: right;
+  float:left;
+  padding:0;
+  clear:both;
+  font-size: 11px;
+  color:#ab7979;
+}
+
+h5 {
+  width:180px;
+  text-align: right;
+  float:left;
+  padding:0;
+  clear:both;
+  font-size: 10px;
+  color:#ab7979;
+}
+
+h6 {
+  width:180px;
+  text-align: right;
+  float:left;
+  padding:0;
+  clear:both;
+  font-size: 9px;
+  color:#ab7979;
+}
+
+em {
+  font-family: Georgia, "Times New Roman", serif;
+  font-style: italic;
+  color:#777777;
+  font-size:12px;
+  display: block;
+  padding-top:3px;
+}
+
+
+ol {
+  float:right;
+  width:500px;
+  margin-left:40px;
+  list-style: decimal;
+  
+}
+
+ol li {
+  width:500px;
+  list-style-type: decimal;
+  list-style-position: inside;
+}
+
+ul.unordered {
+  float:right;
+  width:500px;
+  margin-left:40px;
+  
+}
+
+ul.unordered li {
+  margin:0;
+  padding:0;
+  float:left;
+  display: block;
+  width:500px;
+  padding-left:10px;
+  background-position: 0 .5em;
+  margin-top:0;
+}
+
+ul.info {
+  float:right;
+  width:500px;
+  margin-left:40px;
+  list-style-type: none; 
+}
+
+ul.info li {
+  margin:0;
+  padding:0;
+  float:left;
+  display: block;
+  width:500px;
+  padding-left:10px;
+  background-position: 0 .5em;
+  margin-top:12px;
+}
+
+ul.skills {
+  margin:0;
+  padding:0;
+  float:right;
+  width:500px;
+  margin-left:40px;
+  margin-top:-6px;
+  list-style-type: none;
+  
+}
+
+ul.skills li {
+  margin:0;
+  padding:0;
+  float:left;
+  width:156px;
+  padding-left:10px;
+  background-position: 0 .5em;
+  margin-top:6px;
+}
+
+img.portrait {
+  width:150px;
+  height:109px;
+  padding-top:20px;
+  padding-left:11px;
+  padding-right:11px;
+  padding-bottom:36px;
+  margin-left:50px;
+  float:left;
+  
+}
+
+.self {
+  width:250px;
+  float:left;
+  padding-top:11px;
+  margin-left:38px;
+  margin-bottom:15px;
+}
+
+.details li {
+  height:25px;
+  display:block;
+  padding-left: 25px;
+}
